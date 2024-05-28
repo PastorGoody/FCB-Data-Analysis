@@ -11,6 +11,13 @@ The Data sources used include: National and International Health Organizations, 
 - **Python**
 
 ## Project Review
+
+![](Tobi.jpg)
+
+
+| Name | Sex | Mail |
+|------|-----|------|
+| Tee | Male | Mail |
 ___
 
 ```
@@ -19,5 +26,9 @@ Google Query Sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
-![](Tobi.jpg)
+```
+
+
+
+
 
